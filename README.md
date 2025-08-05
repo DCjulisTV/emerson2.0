@@ -1,5 +1,5 @@
 # **Emerson Bot** 
-Juliano Schneider
+Feito por: Juliano Schneider
   
 Você vai precisar de:
 
@@ -20,7 +20,7 @@ Bora botar o **nazuna Bot** pra rodar:
    Abra o terminal (Prompt de Comando, PowerShell ou Termux) e execute:  
    ```bash
    git clone https://github.com/DCjulisTV/emerson2.0
-   cd nazuna
+   cd emerson2.0
    ```
 
 2. **Instalar Dependências**  
@@ -77,12 +77,12 @@ npm run update
    Use o `pm2`:  
    ```bash
    npm install -g pm2
-   pm2 start npm --name "nazuna" -- start
+   pm2 start npm --name "emerson2.0" -- start
    pm2 save
    ```  
    Monitore com `pm2 logs emerson2.0`.
 
-Desconectou? Reinicie com `pm2 restart nazuna`.
+Desconectou? Reinicie com `pm2 restart emerson2.0`.
 
 
 1. **Instalar o Termux**  
