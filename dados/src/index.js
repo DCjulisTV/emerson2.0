@@ -1,11 +1,3 @@
-// ====================
-// Nazuna Bot - Index principal
-// Criado por: Hiudy
-// Versão: 4.0.0
-// Atualizado: 26/06/2025
-// ====================
-
-
 const { downloadContentFromMessage } = require('@cognima/walib');
 const { exec, execSync } = require('child_process');
 const axios = require('axios');
