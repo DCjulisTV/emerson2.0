@@ -1,6 +1,7 @@
 # **Emerson Bot** 
 Juliano Schneider
-  Você vai precisar de:
+  
+Você vai precisar de:
 
 | **Item**            | **Descrição**                                                                 |
 |---------------------|-------------------------------------------------------------------------------|
